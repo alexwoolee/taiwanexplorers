@@ -1,4 +1,3 @@
-import React from 'react';
 import { APIProvider, Map, type MapCameraChangedEvent } from '@vis.gl/react-google-maps';
 
 const Regions = () => {
