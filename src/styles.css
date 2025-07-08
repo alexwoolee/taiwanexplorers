@@ -64,7 +64,7 @@ div ul li {
 #bg-image {
   width: 100%;
   height: 60vh;
-  background-image: url("src/assets/taipei-day.jpg");
+  background-image: url("public/assets/taipei-day.jpg");
   background-repeat: no-repeat;
   background-position-y: center;
   background-size: cover;
